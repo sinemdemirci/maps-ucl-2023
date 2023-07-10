@@ -140,20 +140,22 @@ In this talk, I will be talking about
 ## Methodology
 
 ::: {style="font-size: 23px"}
+::: {.nonincremental}
+
 -   In the present study, *exploratory sequential mixed method*, which is one of the mixed method research designs, was used.
     -   Researchers initially employ a qualitative method to uncover the essential variables that underlie a phenomenon of interest and provide insights for a subsequent quantitative method. Following that, their focus is on identifying the relationships among these variables.
 
-::: fragment
+
 ![](img\exploratory.PNG){fig-align="center" width="60%"}
 
 ::: {style="text-align: left;"}
 Figure 3. Exploratory design. *Source: (Fraenken, Wallen & Hyun, 2012, p.560)*
 :::
-:::
 
 -   We completed the qualitative part of this study in the Term 1 and Term 2 of the 2022-2023 academic year.
     -   In this part, our aim was to understand how IDS instructors interpret their teaching experiences in IDS courses and "what meaning they attribute to their experiences" (Merriam, 2009, p. 23).
 -   Quantitative part which is for testing the scale developed by the researchers will be administered in the next term.
+:::
 :::
 
 ## Sampling Procedure
@@ -177,7 +179,8 @@ Figure 3. Exploratory design. *Source: (Fraenken, Wallen & Hyun, 2012, p.560)*
 ::: columns
 ::: {.column width="50%"}
 ::: {style="font-size: 28px"}
-::: fragment
+::: {.nonincremental}
+
 -   Students are coming from almost every major/department.
 
     -   Majority -- Math, Stat, CS, Data Science
@@ -191,7 +194,7 @@ Figure 3. Exploratory design. *Source: (Fraenken, Wallen & Hyun, 2012, p.560)*
 
 ::: {.column width="50%"}
 ::: {style="font-size: 28px"}
-::: fragment
+
 Table 1: Class sizes reported by IDS instructors
 
 | Class Size | n   |
@@ -204,7 +207,7 @@ Table 1: Class sizes reported by IDS instructors
 | 20-29      | 3   |
 | 10-19      | 3   |
 | 1-9        | 1   |
-:::
+
 :::
 :::
 :::
@@ -224,6 +227,8 @@ Table 1: Class sizes reported by IDS instructors
 ## Preliminary Data Analysis I
 
 ::: {style="font-size: 28px"}
+::: {.nonincremental}
+
 
 - We used *qualitative content analysis* (Merriam & Tisdell, 2016) for generating a comprehensive codebook.
 - We completed data analysis for the following parts:
@@ -235,6 +240,7 @@ Table 1: Class sizes reported by IDS instructors
 (3) What are the conceptual difficulties, if any, that students have in your course?
     -   We adapted the framework of Qian and Lehman (2017) which covers introductory programming students' difficulties and extended this framework to introductory data science courses.
     
+:::
 :::
 
 ##
