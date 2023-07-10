@@ -108,9 +108,9 @@ In this talk, I will be talking about
 ::: {style="text-align: center; font-size: 30px"}
 ::: {.nonincremental}
 
--   Some initiatives have been taken to provide curriculum guidelines for data science (e.g., De Veaux et al., 2017; National Academies of Sciences, Engineering and Medicine, 2018 ) and essential skills for a data scientist (e.g., De Veaux et al., 2017)
-        -   to enhance the scope and
-        -   to cultivate proficient data scientists who can meet the growing demand for data scientists in various professional fields.
+- Some initiatives have been taken to provide curriculum guidelines for data science (e.g., De Veaux et al., 2017; National Academies of Sciences, Engineering and Medicine, 2018 ) and essential skills for a data scientist (e.g., De Veaux et al., 2017)
+  - to enhance the scope and
+  - to cultivate proficient data scientists who can meet the growing demand for data scientists in various professional fields.
 -   The growing demand for competent data scientists is being met by a significant number of students who have an interest in acquiring and applying data science skills. (Donoghue et al., 2021).
     -   Students are interested in enrolling data science courses and/or pursuing a data science career.
 
